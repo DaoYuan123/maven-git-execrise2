@@ -1,1 +1,1 @@
-http://localhost:8089/buildStatus/icon?job=maven-web-project
+[![Build Status](http://localhost:8089/job/maven-web-project/badge/icon)](http://localhost:8089/job/maven-web-project/)
